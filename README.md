@@ -2,6 +2,7 @@
 ## Application list to do task.
 ## Technology:
 - React native
+- npm
 ## Task page (checked - add - delete):
 ![Screenshot 2022-01-26 032204](https://user-images.githubusercontent.com/79800006/151053575-e858556d-dabd-41a6-b688-654c4f8ff351.png)
 ![Screenshot 2022-01-26 032323](https://user-images.githubusercontent.com/79800006/151053665-84cbbcee-a264-449f-9fa3-6be441880fec.png)
